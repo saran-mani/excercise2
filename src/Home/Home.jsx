@@ -15,7 +15,7 @@ export class Home extends Component {
               <img src={car1} style={{ width: "100%" }} alt="" srcset="" />
             </div>
             <div className="col-sm-6  text-dark p-3 fs-3 text-break">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sitr
               possimus consequatur totam magni autem? Quidem nihil saepe quos in
               exercitationem delectus modi rem, veritatis quas architecto ex
               harum soluta cum? Lorem ipsum, dolor sit amet consectetur
